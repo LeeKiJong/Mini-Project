@@ -1,3 +1,6 @@
+```
+공공데이터를 Parsing 해서 GUI 화면을 구성해 출력하는 프로젝트
+```
 # HappyHouse
 ## 구현된 주택 정보 및 검색된 데이터 화면을 Capture한 이미지와 Source
 ![image](https://user-images.githubusercontent.com/52438368/160124624-09420a92-6b57-43e7-bf98-69259af494f6.png)<br/>
